@@ -12,3 +12,7 @@ git status
 git add .
 git commit -m "commit message"
 ```
+
+## Credit
+
+Credit to CodeDex for the Git and GitHub learning material this practice is based on. I organized these commands here in my own words for review.
